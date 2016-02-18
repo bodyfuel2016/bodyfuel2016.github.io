@@ -1310,3 +1310,7 @@ ul.twitter_footer li p {
 	padding: 10px 10px 10px 10px;
 }
 }
+iframe
+{
+	width: 100%; 
+}
